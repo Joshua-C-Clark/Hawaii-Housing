@@ -13,4 +13,4 @@ This project explores the Hotel Occupancy and Tourist Arrival Rates between Janu
 
 ## Data
 
-All data was obtained from [Hawaii Government Travel Statistics] (https://dbedt.hawaii.gov/visitor/). The concatenated data is contained in [data.csv] (https://github.com/Joshua-C-Clark/Hawaii-Housing/blob/main/data.csv) and is available for future projects and use.
+All data was obtained from [Hawaii Government Travel Statistics](https://dbedt.hawaii.gov/visitor/). The concatenated data is contained in [data.csv](https://github.com/Joshua-C-Clark/Hawaii-Housing/blob/main/data.csv) and is available for future projects and use.
